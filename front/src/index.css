@@ -1,0 +1,71 @@
+body {
+  margin: 0;
+  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", "Roboto", "Oxygen",
+    "Ubuntu", "Cantarell", "Fira Sans", "Droid Sans", "Helvetica Neue",
+    sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, "Courier New",
+    monospace;
+}
+
+ .tarjeta {
+  display: flex;
+  align-items: space-evenly;   
+  flex-wrap: wrap;
+
+} 
+.buscador {
+  display: flex;
+  justify-content: flex-end;
+  
+}
+.titulos{
+display: flex;
+justify-content: center;
+text-align: center;
+}
+.loggin{
+  margin-top: 180px;
+
+}
+.welcome{
+  text-align: center;
+}
+.formulario {
+  display: flex;
+  justify-content: center;
+  align-content: center;
+
+}
+.boton{
+  background-color: yellow;
+  color: black;
+  margin-right: 73px;
+}
+.form-control{
+  padding-right: 100PX;
+}
+.btnKing{
+  text-align: center;
+  background: black;
+  color: yellow;
+  padding: 8px;
+    margin-left: 30px;
+}
+.foto{
+  width: 20%;
+}
+.card-text   {
+  color: black;
+}
+.btn btn-primary-tomi{
+  background: black;
+}
+.titulosDeRegister{
+  text-align: center;
+}
